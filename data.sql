@@ -29,7 +29,7 @@ CREATE TABLE orders (
 -- Insert data
 INSERT INTO orders (customer_id, order_date, total)
 VALUES
-  (1, '2022-01-01', 600.00),
+  (1, '2022-01-01', 1200.00),
   (1, '2022-01-15', 200.00),
   (2, '2022-02-01', 50.00);
 
