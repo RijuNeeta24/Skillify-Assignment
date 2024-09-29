@@ -1,0 +1,22 @@
+skills details:
+
+experience in a customer-facing technical position, preferably 
+within a SaaS company.
+* Proven ability to provide exceptional customer service with a strong emphasis on 
+customer satisfaction.
+* Exceptional troubleshooting skills and experience in resolving a range of 
+technical issues.
+* Proficiency in written and verbal communication in English, including the ability 
+to articulate complex technical processes via email and phone support.
+* Extensive knowledge and understanding of Google applications, query tools, and 
+database systems.
+* Familiarity with Python, YAML, Cloud Platforms (Google Cloud Platform, Azure, 
+AWS, etc.), and fundamental networking/IT knowledge.
+* Strong SQL skills.
+* Ability to work in US West Coast hours
+- SQL expertise (MySQL, Oracle, PostgreSQL, Workbench)
+- Python programming (Toolbox)
+- CST and Salesforce CRM proficiency
+- Zoom meeting creation and email troubleshooting
+- Omni-channel case triaging and team meet arrangements
+- Jira, Confluence, and GURU for knowledge management
