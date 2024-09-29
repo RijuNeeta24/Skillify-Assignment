@@ -30,11 +30,11 @@ def clean_data(data):
         for i in range(len(data)):
             if(isinstance(data[i], dict)):
                 new_val = clean_data(data[i])
-                data[i] = new_val
+                data[i] = new_val1
                 
             if(isinstance(data[i], list)):
                 new_val = clean_data(data[k])
-                data[i] = new_val
+                data[i] = new_val2
                 
             elif(isinstance(data[i], str)):
                 if(data[i] == 'N/A'):
