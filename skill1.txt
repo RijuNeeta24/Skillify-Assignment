@@ -1,7 +1,7 @@
 Modified skills details:
 
 experience in a customer-facing technical position, preferably 
-within a SaaS company.
+within a SaaS(USA to India) company.
 * Proven ability to provide exceptional customer service with a strong emphasis on 
 customer satisfaction.
 * Exceptional troubleshooting skills and experience in resolving a range of 
@@ -21,4 +21,5 @@ AWS, etc.), and fundamental networking/IT knowledge.
 - Omni-channel case triaging and team meet arrangements
 - Jira, Confluence, and GURU for knowledge management
 ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok ok
+<<<<<<< HEAD
 Riju Roy --Tech Support Executive at BT
