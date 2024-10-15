@@ -29,14 +29,13 @@ def clean_data(data):
         to_be_deleted = []
         for i in range(len(data)):
             if(isinstance(data[i], dict)):
-                new_val = clean_data(data[i])
+                new_val = clean_data(data[i]
                 data[i] = new_valA
                 
             if(isinstance(data[i], list)):
                 new_val = clean_data(data[k])
                 data[i] = new_valB
-                
-            elif(isinstance(data[i], str)):
+
                 if(data[i] == 'N/A'):
                     to_be_deleted.append(i)
         for i in to_be_deleted:
